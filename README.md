@@ -62,6 +62,7 @@ Isso significa que:
 .
 ├── index.html       # aplicação completa
 ├── COMO_USAR.md    # orientações de publicação e uso
+└── teste.html      # arquivo auxiliar de testes
 ```
 
 ## Tecnologias
