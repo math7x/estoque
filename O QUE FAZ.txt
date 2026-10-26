@@ -1,0 +1,3 @@
+﻿Programa web - contar estoque e exportar planilha
+
+Aplicativo web para registrar a contagem física do estoque, acompanhar itens pendentes e alertas de estoque mínimo e exportar os resultados para Excel. Abra index.html no navegador; veja COMO_USAR.md.
